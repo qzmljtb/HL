@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\Users\Desktop\资料\smart_car\luntui\kemu1\project\iar\project_config\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>D:\Users\Desktop\资料\smart_car\luntui\kemu1\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\Users\Desktop\kemu1 - 副本\project\iar\project_config\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>D:\Users\Desktop\kemu1 - 副本\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\Users\Desktop\Seekfree_CYT4BB_Opensource_Library\project\iar\project_config\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>D:\Users\Desktop\Seekfree_CYT4BB_Opensource_Library\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\Users\Desktop\HL\project\iar\project_config\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>D:\Users\Desktop\HL\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\Users\Desktop\kemu1\project\iar\project_config\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>D:\Users\Desktop\kemu1\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
